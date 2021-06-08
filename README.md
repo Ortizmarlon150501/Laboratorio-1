@@ -34,6 +34,9 @@ Procedemos a juntar nuestras resistencias en paralelo:
 ![image](https://user-images.githubusercontent.com/84412132/121108644-b98b3d80-c7cf-11eb-8803-966f6507c160.png)
 ![image](https://user-images.githubusercontent.com/84412132/121115242-7e423c00-c7da-11eb-91f9-6895e9be9c10.png)
 
+![image](https://user-images.githubusercontent.com/84585835/121125802-c36f6980-c7ec-11eb-84c1-eba24fd0d53d.png)
+
+
 
 Obtenemos: 
 ![image](https://user-images.githubusercontent.com/84412132/121116416-1bea3b00-c7dc-11eb-8300-41d9c1fe904c.png)
