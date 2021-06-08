@@ -88,7 +88,13 @@ De la trayectoria 2 obtenemos el voltaje de la resistencia 3 y 4
 
 ![image](https://user-images.githubusercontent.com/84587118/121126474-d46caa80-c7ed-11eb-90b6-38bebfb0d565.png)
 
+Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
+con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
+del nodo. Anote los resultados en la tabla.
 
+![image](https://user-images.githubusercontent.com/84585835/121137541-5d8ade00-c7fc-11eb-94d3-bfc0e7485d90.png)
+
+Calculo las intensidades con la Ley de omh
 
 
 
