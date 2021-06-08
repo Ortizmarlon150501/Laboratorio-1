@@ -3,6 +3,7 @@
 Objectivo General:
 Analizar  el contenidos teorico estudiado, mediante el desarrollo de un  informe de laboratorio en el cual se expondran conceptos y definiciones que nos serviran de guia para el desarrollo de problemas planteados, y posteriormente en la elaboracion de circuitos tanto en simuladores como en aplicaciones .
 
+Objetivos especificos: 
 Comprender los conceptos basicos sobre la ley de ohm y las leyes de Kirchhoff de la corriente y el voltaje, para asi poder observar la relacion que existe entre si.
 Objetivo Especifico;
 Analizar 
