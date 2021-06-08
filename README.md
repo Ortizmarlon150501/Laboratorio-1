@@ -136,7 +136,11 @@ Valores medidos de las corrientes.
 ![image](https://user-images.githubusercontent.com/84585835/121144000-37b50780-c803-11eb-9c5f-a48ccc7b9aa9.png)
 
 # RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
-En este punto se contestará todo lo planteado en las guías.
+
+![image](https://user-images.githubusercontent.com/84585835/121201242-fe4bbe80-c839-11eb-9870-78bf024c29d8.png)
+
+![image](https://user-images.githubusercontent.com/84585835/121201397-1de2e700-c83a-11eb-92ab-e43a292eccd9.png)
+
 
 # VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
