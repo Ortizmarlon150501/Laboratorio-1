@@ -17,18 +17,58 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 Considerar la Taxonomía de Bloom
 
 # MARCO TEÓRICO
-![image](https://user-images.githubusercontent.com/84587118/121105931-a0cc5900-c7ca-11eb-9c5f-000d8df4ec8d.png)
+Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
-# Explicación DEL PROCEDIMIENTO
-En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
+Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
+Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
+Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
+Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
-Diagramas de bloques.
-Diagramas UML. (casos de uso-clase)
-Diagramas eléctricos.
-Diagramas esquemáticos.
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+El contenido debe ser desarrollado.
+
+# EXPLICACIÓN DEL PROCEDIMIENTO
+
+# Circuito
+
+![image](https://user-images.githubusercontent.com/84412132/121108130-d07d6000-c7ce-11eb-91e7-2f88df472568.png)
+
+
+Procedimiento del calculo de Tabla 1.
+![image](https://user-images.githubusercontent.com/84412132/121108174-e723b700-c7ce-11eb-9fe8-0906253c82b4.png)
+
+Entonces tenemos que juntar nuestras resistencias en serie:
+
+![image](https://user-images.githubusercontent.com/84412132/121108483-70d38480-c7cf-11eb-8185-a81441c528fa.png)
+![image](https://user-images.githubusercontent.com/84412132/121106744-387e7700-c7cc-11eb-9219-b61930f20de8.png)
+
+Procedemos a juntar nuestras resistencias en paralelo:
+
+![image](https://user-images.githubusercontent.com/84412132/121108644-b98b3d80-c7cf-11eb-8803-966f6507c160.png)
+![image](https://user-images.githubusercontent.com/84412132/121108758-edfef980-c7cf-11eb-8746-3fe20f7c9da0.png)
+
+Obtenemos: 
+![image](https://user-images.githubusercontent.com/84412132/121109057-71204f80-c7d0-11eb-9318-bb4a2a0175dc.png)
+![image](https://user-images.githubusercontent.com/84412132/121109104-88f7d380-c7d0-11eb-9f42-e46b337a9244.png)
+
+ Dandonos como resultado: 
+ ![image](https://user-images.githubusercontent.com/84412132/121109216-bf355300-c7d0-11eb-9b00-8012838e979f.png)
+ ![image](https://user-images.githubusercontent.com/84412132/121109289-df651200-c7d0-11eb-9357-563180a8c329.png)
+![image](https://user-images.githubusercontent.com/84412132/121109321-ef7cf180-c7d0-11eb-9057-cf3a8d36f561.png)
+![image](https://user-images.githubusercontent.com/84412132/121109335-f86dc300-c7d0-11eb-8467-16270476f166.png)
+![image](https://user-images.githubusercontent.com/84412132/121109390-15a29180-c7d1-11eb-9d77-a901c55fc9f1.png)
+![image](https://user-images.githubusercontent.com/84412132/121109410-1fc49000-c7d1-11eb-9414-81a347d9eb96.png)
+![image](https://user-images.githubusercontent.com/84412132/121109438-2ce17f00-c7d1-11eb-9239-c3a7da86915f.png)
+![image](https://user-images.githubusercontent.com/84412132/121109449-38cd4100-c7d1-11eb-936f-9c278130b800.png)
+![image](https://user-images.githubusercontent.com/84412132/121109486-47b3f380-c7d1-11eb-827a-624cd653e0f2.png)
+![image](https://user-images.githubusercontent.com/84412132/121109506-513d5b80-c7d1-11eb-8748-5f08b08a47d2.png)
+![image](https://user-images.githubusercontent.com/84412132/121109530-5d291d80-c7d1-11eb-9a55-2b8ebb5d9828.png)
+![image](https://user-images.githubusercontent.com/84412132/121109549-674b1c00-c7d1-11eb-8000-b8177e9cd27a.png)
+![image](https://user-images.githubusercontent.com/84412132/121109564-703bed80-c7d1-11eb-8147-742e2f26ea9e.png)
+
+
 
 
 
