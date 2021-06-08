@@ -6,7 +6,7 @@ Analizar  el contenidos teorico estudiado, mediante el desarrollo de un  informe
 Objetivos especificos: 
 Comprender los conceptos basicos sobre la ley de ohm y las leyes de Kirchhoff de la corriente y el voltaje, para asi poder observar la relacion que existe entre si.
 Objetivo Especifico;
-Analizar 
+
 
 
 
@@ -99,9 +99,14 @@ En este punto se contestará todo lo planteado en las guías.
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
 # CONCLUSIONES
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
-# BIBLIOGRAFÍA
+
+En base a esta práctica de laboratorio se llego a cumplir con nuestros objetivos lo que nos proporciono una mejor comprensión sobre el tema planteado.
+A traves de las herramientas tecnologicas pudimos comprobar si nuestros resultados estan correctamente realizados. Con las distintas aplicaciones de la ley de Kirchhoff pudimos resesolver nuestro circuitos, haciendo uso a sus dos leyes. 
+También hicimos uso sobre la ley de ohm, nos proporciono rapidamente los valores del voltaje y las resistencias. En resumen, las leyes de Kirchhoff describen el comportamiento de la corrientre en un nodo y del voltaje alrededor de una malla, estas dos leyes son la base para llegar al análisis de un circuito avanzado.
+
+
+# BILIOGRAFÍA
 Emplear normas APA para el informe e IEEE para el artículo
 
 
