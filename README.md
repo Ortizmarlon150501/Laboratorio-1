@@ -88,6 +88,11 @@ De la trayectoria 2 obtenemos el voltaje de la resistencia 3 y 4
 
 ![image](https://user-images.githubusercontent.com/84587118/121126474-d46caa80-c7ed-11eb-90b6-38bebfb0d565.png)
 
+Valores medidos de los voltajes.
+
+![image](https://user-images.githubusercontent.com/84585835/121141901-13f0c200-c801-11eb-8c76-ba901bc21d99.png)
+
+
 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla.
@@ -104,9 +109,31 @@ Calculo las intensidades con la Ley de ohm
 
 ![image](https://user-images.githubusercontent.com/84585835/121138513-64feb700-c7fd-11eb-8215-e34ee5b095db.png)
 
+Valores medidos de las corrientes.
 
+**IT**
 
+![image](https://user-images.githubusercontent.com/84585835/121143375-9cbc2d80-c802-11eb-81ee-16991a36a640.png)
 
+**IR1**
+
+![image](https://user-images.githubusercontent.com/84585835/121142521-aee99c00-c801-11eb-808b-02ac35a1a7f6.png)
+
+**IR2**
+
+![image](https://user-images.githubusercontent.com/84585835/121142865-08ea6180-c802-11eb-816a-41288bc6df0f.png)
+
+**IR3**
+
+![image](https://user-images.githubusercontent.com/84585835/121143659-e73daa00-c802-11eb-91ca-3de4d2692c3f.png)
+
+**IR4**
+
+![image](https://user-images.githubusercontent.com/84585835/121143828-118f6780-c803-11eb-8880-4817635842b9.png)
+
+**IR5**
+
+![image](https://user-images.githubusercontent.com/84585835/121144000-37b50780-c803-11eb-9c5f-a48ccc7b9aa9.png)
 
 # RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 En este punto se contestará todo lo planteado en las guías.
