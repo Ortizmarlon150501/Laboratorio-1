@@ -34,6 +34,8 @@ Procedemos a juntar nuestras resistencias en paralelo:
 ![image](https://user-images.githubusercontent.com/84412132/121108644-b98b3d80-c7cf-11eb-8803-966f6507c160.png)
 ![image](https://user-images.githubusercontent.com/84412132/121115242-7e423c00-c7da-11eb-91f9-6895e9be9c10.png)
 
+![image](https://user-images.githubusercontent.com/84585835/121125802-c36f6980-c7ec-11eb-84c1-eba24fd0d53d.png)
+
 
 
 Obtenemos: 
@@ -65,7 +67,13 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
 
 ![image](https://user-images.githubusercontent.com/84587118/121125835-d1bd8580-c7ec-11eb-828c-058d497269a4.png)
 
+Dividimos nuestro circuito en trayectorias
 
+![image](https://user-images.githubusercontent.com/84587118/121126094-3842a380-c7ed-11eb-9bae-7d42dad16c51.png)
+
+Hacemos el calculo del voltaje de la resitencia 1 y 5
+
+![image](https://user-images.githubusercontent.com/84587118/121126179-5f00da00-c7ed-11eb-865c-749bfda1d1ce.png)
 
 
 
