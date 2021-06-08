@@ -32,6 +32,7 @@ El contenido debe ser desarrollado.
 # EXPLICACIÓN DEL PROCEDIMIENTO
 
 # Circuito
+![image](https://user-images.githubusercontent.com/84412132/121118229-1cd09c00-c7df-11eb-9c17-0004e4256cd8.png)
 
 ![image](https://user-images.githubusercontent.com/84412132/121108130-d07d6000-c7ce-11eb-91e7-2f88df472568.png)
 
