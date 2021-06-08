@@ -142,18 +142,21 @@ Valores medidos de las corrientes.
 
 
 # VIDEO
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
+
+https://youtu.be/xWXHKbgI3E4
 
 # CONCLUSIONES
 
+•	Podemos afirmar que la ley de Kirchhoff se cumple, confirmando que en un circuito eléctrico la suma de corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo y que en un circuito eléctrico la suma algebraica de las cargas.
 
-En base a esta práctica de laboratorio se llego a cumplir con nuestros objetivos lo que nos proporciono una mejor comprensión sobre el tema planteado.
-A traves de las herramientas tecnologicas pudimos comprobar si nuestros resultados estan correctamente realizados. Con las distintas aplicaciones de la ley de Kirchhoff pudimos resesolver nuestro circuitos, haciendo uso a sus dos leyes. 
-También hicimos uso sobre la ley de ohm, nos proporciono rapidamente los valores del voltaje y las resistencias. En resumen, las leyes de Kirchhoff describen el comportamiento de la corrientre en un nodo y del voltaje alrededor de una malla, estas dos leyes son la base para llegar al análisis de un circuito avanzado.
+•	Como notamos los porcentajes de error son bajos 
 
 
 # BILIOGRAFÍA
-Emplear normas APA para el informe e IEEE para el artículo
+
+MecatrónicaLATAM. (n.d.). Leyes de Kirchhoff.https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
+
 
 
 
