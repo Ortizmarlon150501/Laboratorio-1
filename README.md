@@ -17,19 +17,9 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 Considerar la Taxonomía de Bloom
 
 # MARCO TEÓRICO
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+![image](https://user-images.githubusercontent.com/84587118/121105931-a0cc5900-c7ca-11eb-9c5f-000d8df4ec8d.png)
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-
-Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
-
-El contenido debe ser desarrollado.
-
-# EXPLICACIÓN DEL PROCEDIMIENTO
+# Explicación DEL PROCEDIMIENTO
 En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
 
 Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
