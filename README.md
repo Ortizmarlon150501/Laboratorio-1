@@ -111,11 +111,12 @@ Valores medidos de las corrientes.
 
 **IT**
 
-![image](https://user-images.githubusercontent.com/84585835/121143375-9cbc2d80-c802-11eb-81ee-16991a36a640.png)
+![image](https://user-images.githubusercontent.com/84585835/121142521-aee99c00-c801-11eb-808b-02ac35a1a7f6.png)
+
 
 **IR1**
 
-![image](https://user-images.githubusercontent.com/84585835/121142521-aee99c00-c801-11eb-808b-02ac35a1a7f6.png)
+![image](https://user-images.githubusercontent.com/84585835/121143375-9cbc2d80-c802-11eb-81ee-16991a36a640.png)
 
 **IR2**
 
