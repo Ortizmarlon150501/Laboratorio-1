@@ -92,9 +92,19 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla.
 
-![image](https://user-images.githubusercontent.com/84585835/121137541-5d8ade00-c7fc-11eb-94d3-bfc0e7485d90.png)
+![image](https://user-images.githubusercontent.com/84585835/121139722-acd20e00-c7fe-11eb-9881-a89f49a97f74.png)
 
-Calculo las intensidades con la Ley de omh
+Calculo las intensidades con la Ley de ohm
+
+![image](https://user-images.githubusercontent.com/84585835/121138186-12bd9600-c7fd-11eb-9aea-d3037f012495.png)
+
+![image](https://user-images.githubusercontent.com/84585835/121138455-531d1400-c7fd-11eb-9bff-6d501f7e347e.png)
+
+![image](https://user-images.githubusercontent.com/84585835/121138481-59ab8b80-c7fd-11eb-9741-f5eb2e228054.png)
+
+![image](https://user-images.githubusercontent.com/84585835/121138513-64feb700-c7fd-11eb-8215-e34ee5b095db.png)
+
+
 
 
 
