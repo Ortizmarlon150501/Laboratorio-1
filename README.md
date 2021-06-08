@@ -60,6 +60,9 @@ Tabla 1
 
 ![image](https://user-images.githubusercontent.com/84412132/121117877-7d130e00-c7de-11eb-9120-8449c92d1846.png)
 
+Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con  signo negativo. Anote los resultados en la tabla.
+
+![image](https://user-images.githubusercontent.com/84587118/121125719-a175e700-c7ec-11eb-92f2-2b1262e4cb16.png)
 
 
 
