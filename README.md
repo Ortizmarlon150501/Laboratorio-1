@@ -149,8 +149,7 @@ https://youtu.be/xWXHKbgI3E4
 
 •	Podemos afirmar que la ley de Kirchhoff se cumple, confirmando que en un circuito eléctrico la suma de corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo y que en un circuito eléctrico la suma algebraica de las cargas.
 
-•	Como notamos los porcentajes de error son bajos 
-
+•Al realizar los cálculos del porcentaje de error, notamos que el resultado de dicho porcentaje es  bajo, debido a que los cálculos realizados y las mediciones tomadas son casi similares en su valor, la gran mayoría esto provoca que no difiera mucho el porcentaje de valor entre los resultados y constatamos que son cifras exactas y están bien realizados  
 
 # BILIOGRAFÍA
 
