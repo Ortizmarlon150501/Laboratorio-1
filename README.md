@@ -65,7 +65,8 @@ Tabla 1
 
 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con  signo negativo. Anote los resultados en la tabla.
 
-![image](https://user-images.githubusercontent.com/84587118/121125835-d1bd8580-c7ec-11eb-828c-058d497269a4.png)
+![image](https://user-images.githubusercontent.com/84587118/121126289-8e174b80-c7ed-11eb-91e1-14a663efff3d.png)
+
 
 Dividimos nuestro circuito en trayectorias
 
@@ -75,6 +76,16 @@ Hacemos el calculo del voltaje de la resitencia 1 y 5
 
 ![image](https://user-images.githubusercontent.com/84587118/121126179-5f00da00-c7ed-11eb-865c-749bfda1d1ce.png)
 
+De la Ley kirchhoff
+
+![image](https://user-images.githubusercontent.com/84587118/121126561-f49c6980-c7ed-11eb-9467-dbd377492162.png)
+
+
+De la trayectoria 2 obtenemos el voltaje de la resistencia 3 y 4
+
+![image](https://user-images.githubusercontent.com/84587118/121126398-b606af00-c7ed-11eb-84c4-6949cdd335c3.png)
+
+![image](https://user-images.githubusercontent.com/84587118/121126474-d46caa80-c7ed-11eb-90b6-38bebfb0d565.png)
 
 
 
