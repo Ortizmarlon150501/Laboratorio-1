@@ -1,14 +1,12 @@
 # Laboratorio-1
 # OBJETIVOS
 Objectivo General:
-Analizar  el contenidos teorico estudiado, mediante el desarrollo de un  informe de laboratorio en el cual se expondran conceptos y definiciones que nos serviran de guia para el desarrollo de problemas planteados, y posteriormente en la elaboracion de circuitos tanto en simuladores como en aplicaciones .
 
-Objetivos especificos: 
-Comprender los conceptos basicos sobre la ley de ohm y las leyes de Kirchhoff de la corriente y el voltaje, para asi poder observar la relacion que existe entre si.
-Objetivo Especifico;
+•	Analizar el contenido teórico estudiado, mediante el desarrollo de un informe de laboratorio en el cual se expondrán conceptos y definiciones que nos servirán de guía para el desarrollo de problemas planteados, y posteriormente en la elaboración de circuitos tanto en simuladores como en aplicaciones.
 
+Objetivo especifico: 
 
-
+•	Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff para el desarrollo de circuitos en serie, paralelo y mixtos.
 
 # MARCO TEÓRICO
 ![image](https://user-images.githubusercontent.com/84587118/121125350-0aa92a80-c7ec-11eb-9e73-73ceefdf711d.png)
